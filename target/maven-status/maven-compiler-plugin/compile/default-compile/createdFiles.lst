@@ -1,0 +1,10 @@
+com\bajajfinserv\model\GenerateWebhookResponse.class
+com\bajajfinserv\model\TestWebhookRequest.class
+com\bajajfinserv\Application.class
+com\bajajfinserv\model\GenerateWebhookRequest.class
+com\bajajfinserv\config\WebClientConfig.class
+com\bajajfinserv\runner\ApplicationStartupRunner.class
+com\bajajfinserv\service\SolutionService.class
+com\bajajfinserv\model\QuestionMetadata.class
+com\bajajfinserv\service\QuestionService.class
+com\bajajfinserv\service\WebhookService.class
